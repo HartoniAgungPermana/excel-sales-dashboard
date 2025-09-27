@@ -24,7 +24,7 @@ This project represents the **starting point of my data analytics journey**. Whi
 # 📂 **Dataset**
 
 The dataset contains sales records from **2019–2022**.  
-You can access it here: [FlipMart_Dataset.xlsx]()
+You can access it here: [FlipMart_Dataset.xlsx](https://github.com/HartoniAgungPermana/excel-sales-dashboard/blob/main/FlipMart_Dataset.xlsx)
 
 # 📊 **Dashboard Overview**
 
