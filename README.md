@@ -1,4 +1,4 @@
-# 📊 **Sales Performance Dashboard (Excel)**
+# 📊 **Excel Sales Performance Dashboard – Portfolio Project**
 
 ![alt text](<resources/Dashboard Demo.gif>)
 
