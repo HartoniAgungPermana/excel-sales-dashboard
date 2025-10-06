@@ -1,4 +1,4 @@
-# 📊 **Excel Sales Performance Dashboard – Portfolio Project**
+# 📊 **FlipMart Retail Sales Performance Dashboard – Portfolio Project**
 
 ![alt text](<resources/Dashboard Demo.gif>)
 
